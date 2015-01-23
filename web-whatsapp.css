@@ -1,0 +1,29 @@
+#pane-side img,
+.drawer-body img{
+	display: none;
+}
+
+.avatar {
+	display: none;
+}
+
+.chat {
+	padding: 0;    
+}
+
+body {
+	background: none; 
+}
+
+.app-wrapper::before {
+	background: none; 
+}
+    
+.app {
+	background: #fff;
+	background-clip: padding-box;
+	border: 1px solid #cdcdcd;
+	border-color: rgba(0,0,0,.15);
+}
+      
+ 
